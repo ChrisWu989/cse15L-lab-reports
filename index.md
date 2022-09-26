@@ -1,6 +1,8 @@
 # Heading 1
 
-[Lab Report 1 (Week 0 Lab)](https://chriswu989.github.io/cse15L-lab-reports/hi.html)
+[TEst Link](https://chriswu989.github.io/cse15L-lab-reports/hi.html)
+[Lab Report 1 (Week 0 Lab)](https://chriswu989.github.io/cse15L-lab-reports/lab-report-1-week-0.html)
+
 
 
 ## Heading 2
