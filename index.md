@@ -3,7 +3,7 @@
 *Hello this is a demo index for week 0* xdddddddd
 > BLOCK TEXT xdd
 
-
+[Lab Report 1 Week 0](https://chriswu989.github.io/cse15L-lab-reports/lab-report-1-week-0.md)
 
 **BOLD TEXT HERE**
 
@@ -16,6 +16,7 @@
 1) dog1
 2) dog2
 3) dog3
+
 `Hello World`
 
 
