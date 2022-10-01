@@ -1,12 +1,12 @@
 # Week 1 Lab Report
 ## Step 1. Installing VScode
-* Go to https://code.visualstudio.com/ and install VScode for Windows or Mac depending on your device
+* Go to [VScode](https://code.visualstudio.com/) and install VScode for Windows or Mac depending on your device
 * When you finish the download and open VScode it should look like this.
 ![Image](screenshots/vscode.png)
 * Personally I did not install VScode because I already had it installed before for personal use.
 
 ## Step 2. Remotely Connecting
-* First find the course specific CSE15L account here https://sdacs.ucsd.edu/~icc/index.php
+* First find the course specific CSE15L account here [Acc Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 * To reset the password for the account follow this tutorial [Reset Password Tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) after resetting the password you might have to wait 15 minutes to two hours.
 * Install [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui) if you are on windows, make sure you install OpenSSH Client not server.
 * Open up the terminal in VScode and type in `ssh cs15lfazz@ieng6.ucsd.edu` but replace the `zz` with your own course specific acc.
