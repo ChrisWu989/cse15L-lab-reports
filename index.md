@@ -1,14 +1,16 @@
-# Heading 1
-
-[TEst Link](https://chriswu989.github.io/cse15L-lab-reports/hi.html)
+# Lab Reports
 
 [Lab Report 1 (Week 0 Lab)](https://chriswu989.github.io/cse15L-lab-reports/lab-report-1-week-0.html)
 
+[Lab Report 2 (Week 1 Lab)](https://chriswu989.github.io/cse15L-lab-reports/lab-report-2-week-1.html)
 
-
-## Heading 2
+## Below is week 0 markdown practice
 
 **BOLD TEXT HERE**
+
+
+[TEst Link](https://chriswu989.github.io/cse15L-lab-reports/hi.html)
+
 
 ![Image](https://media.npr.org/assets/img/2021/08/11/gettyimages-1279899488_wide-f3860ceb0ef19643c335cb34df3fa1de166e2761-s1100-c50.jpg)
 * cat1
