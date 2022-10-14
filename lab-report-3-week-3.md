@@ -31,7 +31,7 @@ class Handler implements URLHandler {
 }
 ```
 
-* The first screenshot shown below is the base path that will appear when you first run the website. The code will bring you to a homepage where it shows you the string list. This is the first if statement in the code block above and it will check for the `"/"` path and return the string list variable `str`.
+* The first screenshot shown below is the base path that will appear when you first run the website. The code will bring you to a homepage where it shows you the string list. This is the first if statement in the code block above and it will check for the `"/"` path and return the string list variable `str`. in the format of `String: str`
 
 ![Image](screenshots/searchBase.png)
 
