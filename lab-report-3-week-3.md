@@ -31,8 +31,7 @@ class Handler implements URLHandler {
 }
 ```
 
-* The first screenshot shown below is the base path that will appear when you first run the website. The code will bring you to a homepage where it shows you the string list. This is the first if statement in the code block above and it will check for the `"/"` path and return the string list variable `str`. in the format of `String: str`
-
+* The first screenshot shown below is the base path that will appear when you first run the website. The code will bring you to a homepage where it shows you the string list. This is the first if statement in the code block above and it will check for the `"/"` path and return the string list variable `str`. in the format of `String: str`.
 ![Image](screenshots/searchBase.png)
 
 * The next three screenshots are tests for the add method for my website. This method is the `else if` statement in the code snippet above. First the code will check a `/add` path and then check for query `?s` spliting the `"="` into a parameters string array. The parameters string array will have 2 values with `parameters[0] = s` and `parameters[1] = the string you are added`. Then our original string list will add `parameters[1]` and return  that `parameters[1]` has been added.
