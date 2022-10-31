@@ -33,7 +33,7 @@ Input
 cd plos
 less -m journal.pbio.0020112.txt
 ```
-Output ![image](screenshots/lessM3.png)
+Output ![image](screenshots/lessm3.png)
 * Explanation: In this example we started in the techincal folder then went into the plos folder to use the less -m command-line option on a file. In the screenshot there is a percentage at the bottom of the tile and it shows us how much of the file has been gone through. This is useful as it can tell the user where in the file they exactly are.
 
 ## less -M
