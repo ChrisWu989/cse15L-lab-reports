@@ -3,25 +3,25 @@
 The task I chose to repeat was "In `DocSearchServer.java`, change the name of the `start` parameter of `getFiles`, and all of its uses, to instead be called ``base``"
 ### Vim Sequence
 * `vim DocSearchServer.java<Enter>` 
-![Image](screenshots/vim.png)
+* ![Image](screenshots/vim.png)
 * `\start<Enter>` 
-![Image](screenshots/vim2.png)
+* ![Image](screenshots/vim2.png)
 * `dw` and then `i` 
-![Image](screenshots/vim3.png)
+* ![Image](screenshots/vim3.png)
 * `base<Esc>` 
-![Image](screenshots/vim4.png)
+* ![Image](screenshots/vim4.png)
 * `\start<Enter>` 
-![Image](screenshots/vim5.png)
+* ![Image](screenshots/vim5.png)
 * `dw` and then `i` 
-![Image](screenshots/vim6.png)
+* ![Image](screenshots/vim6.png)
 * `base<Esc>` 
-![Image](screenshots/vim7.png)
+* ![Image](screenshots/vim7.png)
 * `\start<Enter>` 
-![Image](screenshots/vim8.png)
+* ![Image](screenshots/vim8.png)
 * `dw` and then `i` 
-![Image](screenshots/vim9.png)
+* ![Image](screenshots/vim9.png)
 * `base<Esc>` 
-![Image](screenshots/vim10.png)
+* ![Image](screenshots/vim10.png)
 * `:wq<Enter>`
 
 ## Part 2
