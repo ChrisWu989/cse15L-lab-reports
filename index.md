@@ -8,7 +8,7 @@
 
 [Lab Report 4 (Week 5 Lab)](https://chriswu989.github.io/cse15L-lab-reports/lab-report-4-week-5.html)
 
-[Lab Report 5 (Week 7 Lab)](https://chriswu989.github.io/cse15L-lab-reports/lab-report-4-week-7.html)
+[Lab Report 5 (Week 7 Lab)](https://chriswu989.github.io/cse15L-lab-reports/lab-report-5-week-7.html)
 ## Below is week 0 markdown practice
 
 **BOLD TEXT HERE**
